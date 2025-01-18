@@ -1,0 +1,222 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Which of the following is a linear equation in one variable?",
+    "options": [
+      "4x² = 4",
+      "x + y = 1",
+      "x - 2 = 0",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Find the value of x. <br>x + 8 = 0",
+    "options": [
+      "8",
+      "-8",
+      "0",
+      "5"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Solve for x: 3x + 4 = 19",
+    "options": [
+      "4",
+      "-4",
+      "5",
+      "-5"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Solve: <br><img width='80%' src='./assests/images/3.png'>",
+    "options": [
+      "40",
+      "25",
+      "24",
+      "20"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q5",
+    "question": "If 2(x + 4) = 20, find the value of x.",
+    "options": [
+      "6",
+      "5",
+      "2",
+      "10"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q6",
+    "question": "What is the solution of the following linear equation in one variable?<br> 3x + 5 = 2x + 10",
+    "options": [
+      "10",
+      "5",
+      "7",
+      "9"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7",
+    "question": "Which of the following values of x satisfies the equation 5x - 9 = -3x + 19?",
+    "options": [
+      "./assests/optionImg/1.png",
+      "./assests/optionImg/2.png",
+      "./assests/optionImg/3.png",
+      "./assests/optionImg/4.png"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8",
+    "question": "Solve for the variable m:<br><img width='80%' src='./assests/images/4.png'>",
+    "options": [
+      "8",
+      "12",
+      "14",
+      "16"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q9",
+    "question": "Solve:<br> 5(x + 3) − 2(2x − 1) = 4x + 7",
+    "options": [
+      "./assests/optionImg/5.png",
+      "./assests/optionImg/6.png",
+      "./assests/optionImg/7.png",
+      "./assests/optionImg/8.png"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q10",
+    "question": "The sum of three consecutive integers is 45. If the smallest integer is x, find the value of x.",
+    "options": [
+      "10",
+      "12",
+      "13",
+      "14"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q11",
+    "question": "John thinks of a number. He divides it by 2 then subtracts 9. The answer is 5. What number did John think of?",
+    "options": [
+      "20",
+      "24",
+      "28",
+      "32"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q12",
+    "question": "Danni thinks of a number. She subtracts 2 then multiplies the result by 8. The answer is the same as subtracting 5 from the number then multiplying by 16. What number did Danni think of?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q13",
+    "question": "The total area of this rectangle is 54cm². Find the value of y.<br><img width='60%' src='./assests/images/6.png'>",
+    "options": [
+      "2cm",
+      "3cm",
+      "4cm",
+      "5cm"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q14",
+    "question": "A square has a side length of 7 cm. A rectangle has a length of <img width='11%' src='./assests/images/5.png'> cm and a width of 4 cm. The square has the same perimeter as the rectangle. Work out the value of y.",
+    "options": [
+      "100cm",
+      "104cm",
+      "102cm",
+      "108cm"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q15",
+    "question": "What value of x makes this equation true?<br> x + 49 = 49",
+    "options": [
+      "1",
+      "0",
+      "-49",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q16",
+    "question": "Maria ordered 7 pizzas for a party. There were 42 slices of pizza in all. Which equation will tell how many slices each pizza had?",
+    "options": [
+      "7 - s = 42",
+      "7 + s = 42",
+      "7 × s = 42",
+      "s ÷ 42 = 7"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q17",
+    "question": "The mathematical expression for the given below statement is: The product of a number and a, decreased by b.",
+    "options": [
+      "x + ab",
+      "x × ab",
+      "ax + b",
+      "ax - b"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q18",
+    "question": "Choose the correct equation for the following statement:<br> The quotient of a number and the number plus a is three times the number.",
+    "options": [
+      "./assests/optionImg/9.png",
+      "./assests/optionImg/10.png",
+      "./assests/optionImg/11.png",
+      "./assests/optionImg/12.png"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q19",
+    "question": "Raj will be 3 times as old as he was 4 years ago after 18 years. Find his present age.",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q20",
+    "question": "A number consists of two digits whose sum is 9. If 27 is subtracted from the number then the digits are reversed. Find the number.",
+    "options": [
+      "36",
+      "63",
+      "Both A and B",
+      "None of the above"
+    ],
+    "correct": 1
+  }
+]
